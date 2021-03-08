@@ -25,6 +25,7 @@ public class ProblemFourSmallerGreaterOrEqual {
             scanner.nextLine();
             if (i == 0) {
 //                lowest == highest == input;
+            }
         }
     }
 }
