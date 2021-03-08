@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class ProblemFourSmallerGreaterOrEqual {
     public static void main(String[] args) {
 
-
 //        Problem 4. Smaller, greater or equal?
 //        Write a program that reads from the console a sequence of n integer numbers
 //        and returns these numbers on a single line with the correct sign
