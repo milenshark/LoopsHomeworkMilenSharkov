@@ -1,5 +1,7 @@
 package com.company;
 
+import java.util.Scanner;
+
 public class ProblemTenWordOrNumberSecond {
     public static void main(String[] args) {
 
@@ -14,6 +16,7 @@ public class ProblemTenWordOrNumberSecond {
 //        On the first line there are all words concatenated with - between them or no words if there were no words in the input.
 //        On the second line is the sum of all the numbers or 0 if there were no numbers.
 
+        Scanner scanner = new Scanner(System.in);
 
     }
 }
